@@ -22,7 +22,7 @@ Seasonal Trends: Sales peak during the Spring season, while Autumn shows the low
 
 Operational Efficiency: 39% of customers are repeat buyers, indicating a stable customer retention rate.
 Dashboard Overview:
-[!Dashboard](https://github.com/Rajkumarthombare/Store_sales_analysis/blob/main/Without%20Filter.png)
+[Dashboard!](https://github.com/Rajkumarthombare/Store_sales_analysis/blob/main/Without%20Filter.png)
 [Dashboard](https://github.com/Rajkumarthombare/Store_sales_analysis/blob/main/Filter%20with%20Age_Group.png)
 [Dashboard](https://github.com/Rajkumarthombare/Store_sales_analysis/blob/main/Filter%20with%20Customers.png)
 [Dashboard](https://github.com/Rajkumarthombare/Store_sales_analysis/blob/main/Filter%20with%20Season.png)
